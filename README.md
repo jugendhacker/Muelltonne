@@ -21,3 +21,6 @@ Gebaut von Julian, Kolja, Tigran und Paul
 ![Bild3](Skizze.png)
 
 Dann haben wir den Ultraschall Sensor noch gegen einen infrarot Entfernungssensor ausgetauscht.
+
+##Mit Ultraschall Sensor:
+![Bild4](WP_20150606_10_50_06_Pro.jpg)
