@@ -28,3 +28,10 @@ Infrarot-Entfernungssensor ausgetauscht.
 
 ##Mit Infrarot-Entfernungssensor:
 ![Bild5](WP_20150606_12_07_28_Pro.jpg)
+
+##Das Modell:
+Wir haben dann die Technik in Boxen gepackt und diese Boxen dann in unseren Mülleimer gepackt das ganze sah dann so:
+![Bild6](IMG_20150606_215629.jpg)
+und so:
+![Bild7](IMG_20150606_222425.jpg)
+aus.
