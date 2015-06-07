@@ -35,4 +35,4 @@ Wir haben dann die Technik in Boxen gepackt und diese Boxen dann in unseren Müll
 und so:
 ![Bild7](IMG_20150606_222425.jpg)
 aus.
-Nun haben wir unser Projekt bei Jugend Hackt präsentiert und warten auf die Entscheidungen der Jury.
+Bei Jugend Hackt haben wir mit unserem Projekt den Preis „Mit Code die Welt verbessern“ gewonnen.
