@@ -19,3 +19,5 @@ Gebaut von Julian, Kolja, Tigran und Paul
 
 ##Alles begann mit einer Skizze:
 ![Bild3](Skizze.png)
+
+Dann haben wir den Ultraschall Sensor noch gegen einen infrarot Entfernungssensor ausgetauscht.
