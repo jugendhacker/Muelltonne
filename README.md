@@ -1,4 +1,4 @@
-#README Die intelligente Mülltonne
+x#README Die intelligente Mülltonne
 
 ![Bild1](Logo.JPG)
 
@@ -12,7 +12,7 @@ Hardware:
 * Distanzsensor mit Infrarot
 * Gehäuse aus dem Lasercutter
 
-Gebaut von Julian, Kolja, Tigran und Paul
+Gebaut von Kolja, Tigran, Paul und Julian
 
 ##Der Schaltplan:
 ![Bild2](Schaltplan_Steckplatine.png)
